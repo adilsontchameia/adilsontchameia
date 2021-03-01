@@ -1,10 +1,12 @@
 <h3 align="center">Hello there, I'm Adilson 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="#" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  </code>
+
+  <code><a href="https://stackoverflow.com/" title="Stack Overflow"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a>
+</code>
+  <code><a href="https://www.instagram.com/adilsonchameia" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -61,8 +63,11 @@
 </p>
 <br><br>
 <p width="100%" align="center">
+  
   <a align="left" href="https://github.com/adilsonchameia/contabil" title="Contabil"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=Contabil&theme=gotham"></a>
-  <a align="right" href="https://github.com/adilsonchameia/playMusic" title="Play Music"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=PlayMusic&theme=gotham"></a>
+  
+  <a align="right" href="https://github.com/adilsonchameia/playMusic" title="Play Music"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=playMusic&theme=gotham"></a>
+  
 </p>
 <br><br>
 <h4 align="center"><a href=https://github.com/adilsonchameia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
