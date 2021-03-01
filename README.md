@@ -43,17 +43,17 @@
   
 </p>
 
-<hr>
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
-<hr>
+</p>
 
 <h1 align="center">Some of My Repositories</h1>
 
-<p align="left">
+<p align="center">
   <a align="left" href="https://github.com/adilsonchameia/MorseReader" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=MorseReader&theme=gotham"></a>
 </p>
-<p align="right">
+<p align="center">
   <a align="right" href="https://github.com/adilsonchameia/aprendaIngles" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=aprendaIngles&theme=gotham"></a>
 </p>
 
