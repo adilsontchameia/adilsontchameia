@@ -47,7 +47,7 @@
 ### 📊 Github Stats
 </p>
 
-<p align="center">
+<p>
   
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
 
