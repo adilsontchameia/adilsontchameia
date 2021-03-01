@@ -77,6 +77,8 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/adilsonchameia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
