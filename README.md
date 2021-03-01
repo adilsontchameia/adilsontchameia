@@ -46,6 +46,14 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adilsonchameia)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/adilsonchameia/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/adilsonchameia/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 
 <h1 align="center">Some of My Repositories</h1>
 
