@@ -45,17 +45,6 @@
 
 <hr>
 
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/adilsonchameia/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=gotham&show_icons=true" />
-  </a>
-</p>
-
-<hr>
-
 <h1 align="center">Some of My Repositories</h1>
 
 <p width="100%" align="center">
