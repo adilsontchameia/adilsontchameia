@@ -52,6 +52,10 @@
   </a>
 </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adilsonchameia)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
+
+
 <hr>
 
 <h2 align="center">Some of My Repositories</h2>
@@ -77,7 +81,6 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/adilsonchameia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
