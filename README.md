@@ -15,9 +15,9 @@
   <br>
   🔬 I'm currently studying Computer Engineering 
   <br>
-  💻 I love writing code, learn and graphic design
+  💻 I love writing code, learn, and graphic design
   <br>
-  📚 I’m currently learning how to Node.js
+  📚 I’m currently learning Node.js, and studyind java desktop
   <br>
   💬 See my github repositories <a href="https://github.com/adilsonchameia?tab=repositories" title="Repositories">Here</a>
   <br>
@@ -52,8 +52,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
 </p> 
-
-
 
 
 <h1 align="center">Some of My Repositories</h1>
