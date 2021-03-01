@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
+<img height=175 align="right" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
 
 <img height=175 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
 </p> 
