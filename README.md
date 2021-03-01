@@ -51,8 +51,11 @@
 
 <h1 align="center">Some of My Repositories</h1>
 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/adilsonchameia/MorseReader" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=MorseReader&theme=gotham"></a><a align="right" href="https://github.com/adilsonchameia/aprendaIngles" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=aprendaIngles&theme=gotham"></a>
+<p width="100%" align="left">
+  <a align="left" href="https://github.com/adilsonchameia/MorseReader" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=MorseReader&theme=gotham"></a>
+</p>
+<p width="100%" align="right">
+  <a align="right" href="https://github.com/adilsonchameia/aprendaIngles" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=aprendaIngles&theme=gotham"></a>
 </p>
 <br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/adilsonchameia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
