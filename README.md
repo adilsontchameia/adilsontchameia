@@ -48,10 +48,11 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
 </p> 
+
 
 
 <h1 align="center">Some of My Repositories</h1>
