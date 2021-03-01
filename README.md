@@ -45,11 +45,14 @@
 
 <p align="center">
 ### 📊 Github Stats
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
-
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
+</p> 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson" />
+</p> 
 
 
 
