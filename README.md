@@ -8,7 +8,6 @@
 </code>
   <code><a href="https://www.instagram.com/adilsonchameia" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
 <p align="center">
   Hi, I'm Adilson Chameia, Software Developer from Angola
   <br>
@@ -23,9 +22,6 @@
   <br>
   📫 How to reach me: <a href="mailto: adilsonkchameia@outlook.com">adilsonkchameia@outlook.com</a>
 </p>
-
-<hr>
-
 <h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
