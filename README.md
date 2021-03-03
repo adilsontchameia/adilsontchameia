@@ -1,10 +1,10 @@
 <h3 align="center">Hello there, I'm Adilson 👋</h3>
 <h5 align="center">
   <code>
-    <a href="#" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+    <a href="#" title="https://twitter.com/adilson_chameia"><img width="22" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">Twitter</a>
   </code>
 
-  <code><a href="https://stackoverflow.com/" title="Stack Overflow"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a>
+  <code><a href="https://facebook.com/adilsonchameia/" title="Stack Overflow"><img width="22" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">Facebook</a>
 </code>
   <code><a href="https://www.instagram.com/adilsonchameia" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
