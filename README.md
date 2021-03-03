@@ -17,7 +17,6 @@
   💻 I love writing code, learn, and graphic design
   <br>
   📚 I’m currently learning Node.js, and studyind java desktop
-  <br>
   💬 See my github repositories <a href="https://github.com/adilsonchameia?tab=repositories" title="Repositories">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: adilsonkchameia@outlook.com">adilsonkchameia@outlook.com</a>
