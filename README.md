@@ -45,10 +45,10 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=material-palenight" alt="Adilson" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=gotham" alt="Adilson" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=material-palenight" alt="Adilson Chameia" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=gotham" alt="Adilson Chameia" />
 </p> 
 
 
