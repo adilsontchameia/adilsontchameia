@@ -50,37 +50,15 @@
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=gotham" alt="Adilson Chameia" />
 </p> 
 
+<!-- thropy -->
+<a href="https://arshiamidos.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=adilsonchameia&column=7&theme=gotham"/>
+    </p>
+</a>
 
-
-<h1 align="center">Some of My Repositories</h1>
-
+<!-- first row -->
 <p align="center">
-  <a align="left" href="https://github.com/adilsonchameia/MorseReader" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=MorseReader&theme=gotham"></a>
-</p>
-<p align="center">
-  <a align="right" href="https://github.com/adilsonchameia/aprendaIngles" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adilsonchameia&repo=aprendaIngles&theme=gotham"></a>
-</p>
+<a href="https://arshiamidos.github.io"><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darshiamidos&longCache=true">
+</a>
 
-<br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/adilsonchameia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-
--->
