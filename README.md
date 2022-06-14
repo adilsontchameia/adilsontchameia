@@ -1,44 +1,17 @@
 <p align="center">
-  Hi 👋, I'm Adilson Chameia 🇦🇴.
+  Hi 👋, I'm Adilson Chameia 🇦💻🇴.
   <br>
-  <br>
-  🔬 I'm currently studying Computer Engineering 💻. 
-  <br>
-  💻 I love writing code, music slows, and graphic design.
-  <br>
-  📚 I’m currently learning Node.js, Dart(Flutter), and Java Desktop.
-  💬 See my github repositories <a href="https://github.com/adilsonchameia?tab=repositories" title="Repositories">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: adilsonkchameia@outlook.com">adilsonkchameia@outlook.com</a>
-</p>
-<h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="MySQL" height="25" src="[https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg](https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667)"></code>
   <code><img title="NODE" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
   
 </p>
-
-<p align="center">
-### 📊 Github Stats
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=gotham" alt="Adilson" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonchameia&layout=compact&theme=gotham" alt="Adilson Chameia" />
-</p> 
 
 <!-- thropy -->
 <a href="https://arshiamidos.github.io">
