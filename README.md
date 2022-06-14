@@ -14,7 +14,7 @@
   
 </p>
 
-<p align="center" dir="auto"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=tokyonight&show_icons=true"</a>
+<p align="center"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=adilsonchameia&theme=tokyonight&show_icons=true" </a>
 </p>
 
