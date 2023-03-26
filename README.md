@@ -1,5 +1,5 @@
 <p align="center">
-  Hi 👋, I'm Adilson Chameia 🇦💻🇴.
+  Hi 👋, I'm Adilson Tchameia 🇦💻🇴.
   <br>
 
 <p align="center">
